@@ -1,1 +1,1 @@
-# btcminig
+# btcmining
